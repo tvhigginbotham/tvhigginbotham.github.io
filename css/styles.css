@@ -29,3 +29,7 @@ header {
 section {
   padding: 80px 0;
 }
+
+.card-img-top {
+  height: 230px
+}
