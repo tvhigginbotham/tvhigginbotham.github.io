@@ -33,3 +33,13 @@ section {
 .card-img-top {
   height: 230px
 }
+
+.welcome {
+  background-color: #939599;
+  color: rgb(32, 32, 32)
+}
+
+.h1 {
+  font-family: 'asap', sans-serif;
+  color: white;
+}
